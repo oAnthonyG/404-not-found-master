@@ -41,16 +41,25 @@
 Introduce your projects by taking a screenshot or a gif. Try to tell visitors a story about your project by answering:
 
 - Where can I see your demo?
-   # every people
+
+  
+   every people
 
 - What was your experience?
-    # in html and css it is quite advanced 
+     
+
+   in html and css it is quite advanced 
 
 - What have you learned/improved?
-   # nothing much different from what I had seen before
+
+    
+    nothing much different from what I had seen before
 
 - Your wisdom? :)
-    # I recommend using less margin to separate the boxes
+     
+     
+    I recommend using less margin to separate the boxes
+
 ### Built With
 
 <!-- This section should list any major frameworks that you built your project using. Here are a few examples.-->
